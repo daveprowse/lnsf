@@ -1,0 +1,24 @@
+Test started by dpro on Fri 13 Nov 2020 12:24:44 PM EST 
+
+127.0.0.1 is alive
+serverbash.com is alive
+localhost is alive
+8.8.8.8 is alive
+fe80::cc6c:38ff:fe1f:ebac is alive
+
+Test completed at 12:24:54 PM 
+END of LOG
+-----
+
+Test started by dpro on Mon 23 Nov 2020 11:14:49 AM EST 
+
+127.0.0.1 is alive
+serverbash.com is alive
+localhost is alive
+8.8.8.8 is alive
+fe80::cc6c:38ff:fe1f:ebac is alive
+
+Test completed at 11:14:59 AM 
+END of LOG
+-----
+

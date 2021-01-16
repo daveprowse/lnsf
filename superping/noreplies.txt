@@ -1,0 +1,18 @@
+Test started by dpro on Fri 13 Nov 2020 12:24:44 PM EST 
+
+bs-computer1.example.com is dead
+192.168.240.24 is dead
+
+Test completed at 12:24:54 PM 
+END of LOG
+-----
+
+Test started by dpro on Mon 23 Nov 2020 11:14:49 AM EST 
+
+bs-computer1.example.com is dead
+192.168.240.24 is dead
+
+Test completed at 11:14:59 AM 
+END of LOG
+-----
+
