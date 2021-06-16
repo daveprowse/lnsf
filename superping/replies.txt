@@ -22,3 +22,31 @@ Test completed at 11:14:59 AM
 END of LOG
 -----
 
+Test started by dpro on Mon 01 Mar 2021 02:41:57 PM EST 
+
+127.0.0.1 is alive
+serverbash.com is alive
+localhost is alive
+8.8.8.8 is alive
+
+Test completed at 02:42:11 PM 
+END of LOG
+-----
+
+Test started by dpro on Mon 01 Mar 2021 02:42:14 PM EST 
+
+127.0.0.1 is alive
+serverbash.com is alive
+localhost is alive
+8.8.8.8 is alive
+Test started by dpro on Mon 01 Mar 2021 03:28:37 PM EST 
+
+127.0.0.1 is alive
+serverbash.com is alive
+localhost is alive
+8.8.8.8 is alive
+
+Test completed at 03:28:50 PM 
+END of LOG
+-----
+
