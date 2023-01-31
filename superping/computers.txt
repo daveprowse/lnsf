@@ -1,5 +1,5 @@
 127.0.0.1
-serverbash.com
+prowse.tech
 localhost
 8.8.8.8
 bs-computer1.example.com
