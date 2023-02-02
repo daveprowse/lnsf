@@ -240,6 +240,11 @@ There are at least six ways to modify the networking configuration on Linux syst
 
 - **Settings** - Right-click the desktop and select Settings. Then, locate the Network option. Finally, click the gear in the Wired section. 
 
+<figure>
+  <img src="../images/fedora-network-settings.png" />
+  <figcaption>Figure 3-1: Networking Settings on a Fedora Client</figcaption>
+</figure>
+
 View all of the tabs on your system. In the figure we start with the Details tab. It shows that our IPv4 address is 10.0.2.55. You can make modifications to the IP settings in the IPv4 and IPv6 tabs. 
 
 - **nm-connection-editor** - Open a terminal and simply type `nm-connection-editor`. This will display a graphical tool that looks quite similar to Settings>Network. 
@@ -339,6 +344,11 @@ Cockpit is a program that can be run on a server allowing admins to analyze and 
 	`https://10.0.2.54:9090`
 
 	That should connect to the server. You may have to accept the security risk to continue, and then you will need to login to the server using the same credentials you have been using so far. After that, click "Networking" on the left-hand side. That wil display all of the networking information for the system.
+
+	<figure>
+  <img src="../images/fedora-cockpit.png" />
+  <figcaption>Figure 3-2: Browser-based usage of Cockpit controlling a Fedora Server</figcaption>
+</figure>
 
 ### Lab 3-10
 **Working with `journalctl`**
