@@ -1,6 +1,6 @@
 Hello there! Here you will find the lab material for day 1 of the Linux Networking & Security Fundamentals webinar. Enjoy!
 
-> Note: 	My main IP network is either: 10.0.2.0/24 or 10.0.42.0/16, depending on the lab being used for the day. I'll be running various Linux distributions
+> Note: 	My main IP network is either: 10.0.2.0/24 or 10.42.0.0/16, depending on the lab being used for the day. I'll be running various Linux distributions including Debian server and client, Ubuntu Server, Fedora Server, Fedora Workstation, Rocky Linux, Amazon Linux, and more! 
 	
 ---
 
