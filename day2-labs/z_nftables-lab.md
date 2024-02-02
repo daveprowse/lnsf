@@ -1,10 +1,10 @@
 # nftables lab
 
-This lab demonstrates how to install and configure nftables on a Debian Server. (Other distros will work in a similar fashion.) Make sure that you can connect to the server from another computer. 
+This lab demonstrates how to install and configure nftables on a Debian Server. (Other distros will work in a similar fashion.) Make sure that you can connect to the server from another computer.
 
 For this lab I will be working as root. If you decide to work as a standard Linux user, make sure the user is part of sudoers and issue the `sudo` command before all commands listed below.
 
-> It is recommended that you work directly within the server's console (and not connect via SSH). 
+> It is recommended that you work directly within the server's console (and not connect via SSH).
 
 ## Install nftables
 
