@@ -1,16 +1,16 @@
 # Part II: Working with Services
 
-Services are the underlying programs that make applications work. For example, without the httpd service, we wouldn't be able to use the Apache web server. Services are important for two reasons:
+Services are the underlying programs that make applications work. For example, without the NetworkManager service, we wouldn't be able to use the Apache web server. Services are important for two reasons:
  
 1. They make the system *available* to legitimate users.
 2. They increase the attack surface, and in so doing, make the system available to illegitmate users too.
 
-So, we have to split our brain. One side needs to think about availability and the other needs to consider security. This is the constant balance that we must maintain in the tech world. 
+So, we have to split our brain. One side needs to think about availability and the other needs to consider security. This is the constant balance that we must maintain in the tech world.
 
 ### Lab 2-1
 **Reducing the Attack Surface**
 
-This lab shows how to stop and disable a service, and check the open ports of a system. The lab is run on a Debian client system. 
+This lab shows how to stop and disable a service, and check the open ports of a system. The lab is run on a Debian client system.
 
 - Stop the networking service
 

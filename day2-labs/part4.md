@@ -405,7 +405,7 @@ For the following lab we'll work with a Fedora server.
 - Close multiple ports at once
 
 	```
-	firewall-cmd --add-port={80,443,389,636,88,464}/tcp --per
+	firewall-cmd --remove-port={80,443,389,636,88,464}/tcp --per
 	```
 
 	Reload the firewall, and check your work. Everything should be back to the original firewall settings.

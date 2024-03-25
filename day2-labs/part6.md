@@ -18,7 +18,7 @@ To SSH into a system using a key, you actually need to create a key *pair*. The 
 When you attempt to SSH into the remote system, that system presents its public key. If it matches the private key stored at the local computer, then the connection is allowed. If it doesn't match (for example, a rogue or malicious system) then the connection will be denied. 
 
 - Create an RSA-based key pair
-
+https://halftimebeverage.com/warrior-21-68865
 	To create an SSH key pair, login to the client as a typical user, and type the following:
 
 	`ssh-keygen`
