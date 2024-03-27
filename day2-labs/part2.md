@@ -1,7 +1,7 @@
 # Part II: Working with Services
 
 Services are the underlying programs that make applications work. For example, without the NetworkManager service, we wouldn't be able to use the Apache web server. Services are important for two reasons:
- 
+
 1. They make the system *available* to legitimate users.
 2. They increase the attack surface, and in so doing, make the system available to illegitmate users too.
 
