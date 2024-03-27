@@ -1,5 +1,10 @@
 # rsyslog Lab ⚙️
 
+---
+This is a preview of the **Linux Security - Basics and Beyond** course. Check it out!
+
+---
+
 Wouldn't it be great to be able to review the logs of many remote servers from the comfort of your main workstaton? Well, rsyslog is the way.
 
 This lab covers:
