@@ -32,7 +32,7 @@ Dave Prowse
 
 ---
 
-Check out my latest live streams: https://prowse.tech/upcoming-live-streams/ 
+Check out my latest live streams: https://prowse.tech/live-training/
 
 ---
 
