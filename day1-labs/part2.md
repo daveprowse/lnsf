@@ -9,6 +9,7 @@ The ip and ping commands are two of the most basic analysis tools in Linux. They
 > Remember: If you need more information about any command, to use the help file (for example `ip --help`, or simply `ip -h`) or the manual page (for example `man ip`). Use the help and manual pages for any command that you need more information about. 
 
 ### Lab 2-1
+
 **Analyzing with the ip command**
 
 - Find out Ethernet-based information. Type `ip link`

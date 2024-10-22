@@ -1,9 +1,3 @@
-Hello there! Here you will find the lab material for day 1 of the Linux Networking & Security Fundamentals webinar. Enjoy!
-
-> Note: 	My main IP network is either: 10.0.2.0/24 or 10.42.0.0/16, depending on the lab being used for the day. I'll be running various Linux distributions including Debian server and client, Ubuntu Server, Fedora Server, Fedora Workstation, Rocky Linux, Amazon Linux, and more! 
-	
----
-
 # Part I: Networking 101
 
 In Part I of the webinar we start with some basic computer networking including a review of a typical local area network setup, basic TCP/IP, and a primer of the OSI model. This portion of the webinar is designed to act as a foundation for the rest of the course.
@@ -14,7 +8,8 @@ TCP/IP is a suite of protocols used by computers to communicate with each other.
 
 A typical example of an IP network is: 192.168.1.0. The network portion of the address is 192.168.1. The host portion is 0. It's the host portion that differentiates between systems on the same network. For example, one computer might have the IP address 192.168.1.73. Another might have 192.168.1.142. And the gateway might use 192.168.1.1. It's that last octet, that last number that sets each system apart. Other IP networks can have a larger host portion. For example, in the 172.17.0.0 network, the network portion is 172.17, and the host portion is 0.0. So, a system on the 172.17 network might have an address such as 172.17.51.3. "51.3" would be the host portion of the IP address. 
 
-### Lab 1-1 
+### Lab 1-1
+
 **Use the `ip a` command**
 
 - In the console (or terminal) type the `ip a` command and view the results. Here's an example on a Debian server:
@@ -63,11 +58,13 @@ Different protocols work on different layers. For example, in Lab 1-1 we used th
 There are no other labs in this section. See the reference links below for more information about TCP/IP and the OSI model.
 
 ### TCP/IP Reference Links
+
 - TCP/IP Guide (2005): <https://learning.oreilly.com/library/view/tcpip-guide/9781593270476/>
 - TCP/IP Illustrated (2011): <https://learning.oreilly.com/library/view/tcpip-illustrated-volume/9780132808200/>
 - Computer Networks & Internets (Douglas Comer) - if you can get your hands on one...
 
 ### OSI Reference Model links
+
 https://en.wikipedia.org/wiki/OSI_model
 
 https://www.youtube.com/watch?v=m_RfrAfUFx8

@@ -3,6 +3,7 @@
 Here's a Bash shortcut cheat sheet for you. These are based on a standard Linux installation using a Bash terminal. 🖥️
 
 ## Auto-Completion
+
 `tab`
 
 Use auto-completion! This shortcut will save you the most time! Use the `tab` key to automatically complete filenames, directory names, and commands. 
@@ -66,4 +67,3 @@ Use auto-completion! This shortcut will save you the most time! Use the `tab` ke
 `Alt+c` - convert the character under the cursor to uppercase.
 
 ---
-

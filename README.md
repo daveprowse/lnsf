@@ -26,6 +26,8 @@ To follow along with me I recommend a Linux client and a Linux server. I'll be r
 
 I'll also have physical systems and cloud-based Linux systems at the ready.
 
+> Note: My main IP network is either: 10.0.2.0/24 or 10.42.0.0/16, depending on the lab being used for the day. I'll be running various Linux distributions including Debian server and client, Ubuntu Server, CentOS, Amazon Linux, and more!
+
 Enjoy the course!
 
 Dave Prowse
@@ -35,6 +37,3 @@ Dave Prowse
 Check out my latest live streams: https://prowse.tech/live-training/
 
 ---
-
-
-
