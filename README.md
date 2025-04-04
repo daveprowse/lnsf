@@ -19,10 +19,10 @@ To follow along with me I recommend a Linux client and a Linux server. I'll be r
 
 > Note: You can find step-by-step instructions and videos about how to install Debian at my [website](https://prowse.tech/linux-installs/). General webinar setup suggestions can be found [here](https://prowse.tech/webinars/).
 
-- Ubuntu 22.04 Server
+- Ubuntu 24.04 Server
 - Centos 9 Stream (as a server, no GUI)
 - OpenSUSE
-- Fedora Workstation 39
+- Fedora Workstation
 
 I'll also have physical systems and cloud-based Linux systems at the ready.
 

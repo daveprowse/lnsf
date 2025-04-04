@@ -37,8 +37,7 @@ This shows two interfaces:
 1. *lo*, which is the local loopback, something that is found by default on every system that runs TCP/IP. "inet" shows the IPv4 address, which for *lo* is 127.0.0.1.
 2. *enp1s0*, which is the main network interface, used to access other systems and the Internet. The IPv4 address is 10.0.2.51.
 
-> Note:
-	For help with the ip command type `ip --help`, and for more in-depth information, see the manual page `man ip`. 
+> Note: For help with the ip command type `ip --help`, and for more in-depth information, see the manual page `man ip`.
 
 ## *The OSI Reference Model*
 
