@@ -20,6 +20,10 @@ This is the foundation of the day's concepts, but there is only one lab. The cor
 ### Lab 1-1
 **Using the dig command to check a website**
 
-- Run the comand `dig -x 67.205.11.189` (or other IP address defined by the instructor). What do you find? 
+- Run the comand `dig -x 198.54.114.143` (or other IP address defined by the instructor). What do you find? 
 
 - Ping that same IP address and view the results there as well.
+> Note: If you do not have the `dig` command, you will need to install it. For example, in Debian-based systems: `sudo apt install dnsutils`.
+
+This is actually the IP address of my website `dprocomputer.com` which resides on a shared server. 
+
