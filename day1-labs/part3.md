@@ -200,6 +200,8 @@ Mar 30 14:41:37 ubuntu-server systemd[1]: Finished Wait for Network to be Config
 ```
 
 As you can see, the state of the connection is "routable" which means that this system can connect out to other systems and beyond to other networks (if available). The command also shows the IP address of the *enp1s0* network interface, as well as the DNS and gateway IP addresses. The command also displays the status of the systemd-networkd service, which is started. 
+
+- Use the `resolvectl` (or `resolvectl status`) command to see information about DNS on your system.
  
 > For more information, see the following links:
     
